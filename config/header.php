@@ -9,7 +9,7 @@
       <div class="container-fluid">
           <div class="primary-menu">
               <div class="site-branding">
-                  <a href="http://127.0.0.1:8000/" class="brand-logo"><img src="img/logo/logo-1.png" alt="Resultar Mind"></a>
+                  <a href="/" class="brand-logo"><img src="img/logo/logo-1.png" alt="Resultar Mind"></a>
               </div>
               <div class="nav-menu nav-ml-auto">
                   <!-- Navbar Close -->
