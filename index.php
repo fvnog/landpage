@@ -64,7 +64,7 @@
 </style>
 
 
-                          <a href="about.html" class="main-btn arrow-btn wow fadeInUp" data-wow-delay=".7s">Saiba mais</a>
+                          <a href="https://resultarmind.com.br" class="main-btn arrow-btn wow fadeInUp" data-wow-delay=".7s">Conheça Nosso Bot</a>
                       </div>
                   </div>
                   <div class="col-lg-5">
