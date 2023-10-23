@@ -31,7 +31,7 @@
                         <div class="widget social-widget mb-40 wow fadeInUp" data-wow-delay=".25s">
                             <h4 class="widget-title">Siga-nos</h4>
                             <ul class="social-nav">
-                                <li><a href="https://www.instagram.com/resultarmind_vendas/"><i class="fab fa-instagram"></i>Instagram</a></li>
+                                <li><a href="https://www.instagram.com/resultarmind_/"><i class="fab fa-instagram"></i>Instagram</a></li>
                                 <li><a href="https://www.facebook.com/resultarmind"><i class="fab fa-facebook-f"></i>Facebook</a></li>
                                 <li><a href="https://api.whatsapp.com/send?phone=+5533999486265&text=Olá!" target="_blank"><i class="fab fa-whatsapp"></i>WhatsApp</a></li>
                             </ul>
